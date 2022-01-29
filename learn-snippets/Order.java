@@ -19,4 +19,10 @@ public class Order extends Object {
     public Map<String, String> getOrderMap() {
         return orderMap;
     }
+
+    public static void main(String[] args) {
+        Order order = new Order();
+        order.setOrderId("");
+        System.out.println("111111");
+    }
 }
