@@ -25,3 +25,6 @@ const person = new Person("三", "张", 20);
 const text = person.say();
 
 console.log(text);
+
+
+screen 
